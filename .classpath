@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/cobertura-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/cucumber-core-1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/cucumber-html-0.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/cucumber-java-1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/cucumber-java-5.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/gherkin-2.12.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/junit-4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/NewJar/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/CucumberJar/ABC/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/Jar/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashk1234/Desktop/CucumberTest/Jar/jxl-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
