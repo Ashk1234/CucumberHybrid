@@ -24,6 +24,7 @@ public class Demo {
 		LoginPage p=PageFactory.initElements(m.driver, LoginPage.class);
 		p.username.sendKeys(m.s.getCell(0, 0).getContents());
 		p.pwd.sendKeys(m.s.getCell(0, 0).getContents());
+		System.out.println("Test");
 		
 	}
 
